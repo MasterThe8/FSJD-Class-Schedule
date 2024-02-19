@@ -223,7 +223,7 @@ var event_data = {
     "events": [
     {
         "occasion": "Introduction to Programming",
-        "description": "- SQL Fundamentals<br><span style='margin-left:10px;'>- Java Fundamentals</span><br><span style='margin-left:10px;'>- OOP Concept</span>",
+        "description": "- Perkenalan dan sedikit informasi mengenai Java untuk kedepannya.",
         "year": 2024,
         "month": 2,
         "day": 19,
