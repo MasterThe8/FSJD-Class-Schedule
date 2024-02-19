@@ -223,7 +223,7 @@ var event_data = {
     "events": [
     {
         "occasion": "Introduction to Programming",
-        "description": "- Perkenalakan dengan Mentor dan teman-teman sekelas<br><span style='margin-left:10px;'>- Persiapan tools yang dibutuhkan untuk proses pembelajaran</span><br><span style='margin-left:10px;'>- Q&A dengan mentor</span>",
+        "description": "- Perkenalakan dengan Mentor dan teman-teman sekelas.<br><span style='margin-left:10px;'>- Persiapan tools yang dibutuhkan untuk proses pembelajaran.</span><br><span style='margin-left:10px;'>- Q&A dengan mentor.</span>",
         "year": 2024,
         "month": 2,
         "day": 19,
