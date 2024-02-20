@@ -8213,7 +8213,7 @@ h1, h2, h3, h4, h5,
   clear: both; }
 
 .event-card {
-  padding: 20px 0;
+  padding: 10px 10px;
   max-width: 100%;
   display: block;
   background: #fff;
@@ -8230,12 +8230,19 @@ h1, h2, h3, h4, h5,
 
 .event-count, .event-name, .event-cancelled {
   display: inline;
-  padding: 0 10px;
+  /* padding: 0 10px; */
   font-size: 1rem; }
 
 .event-count {
   color: #7e0cf5;
-  text-align: right; }
+  text-align: justify;
+}
+
+.event-count ul{
+  position: relative;
+  padding-left: 20px;
+}
+  
 
 .event-name {
   padding-right: 0;
