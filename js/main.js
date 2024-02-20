@@ -231,7 +231,7 @@ var event_data = {
     },
     {
         "occasion": "SQL Fundamentals",
-        "description": "<ul><li>Pengenalan Database.</li><li>Mempelajari ERD/Struktur data, hubungan entitas, dan atribut dalam perancangan basis data dengan HR Schema.</li></span></ul>",
+        "description": "<ul><li>Pengenalan Database.</li><li>Mempelajari struktur data, hubungan entitas, dan atribut dalam perancangan basis data dengan HR Schema.</li></span></ul>",
         "year": 2024,
         "month": 2,
         "day": 20,
