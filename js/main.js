@@ -2,7 +2,7 @@
 
 	"use strict";
 
-	// Setup the calendar with the current date
+// Setup the calendar with the current date
 $(document).ready(function(){
     var date = new Date();
     var today = date.getDate();
@@ -238,8 +238,8 @@ var event_data = {
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "occasion": "SQL Fundamentals",
+        "description": "<ul><li>Mempelajari Data Definition Language (DDL)</li><li>Data Type, Constraint, Relations</li><li>Merancang basis data dengan query DDL, DQL, dan DML</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 21,
@@ -247,7 +247,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 22,
@@ -255,7 +255,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 23,
@@ -263,7 +263,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 26,
@@ -271,7 +271,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 27,
@@ -279,7 +279,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 28,
@@ -287,7 +287,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 29,
@@ -295,7 +295,7 @@ var event_data = {
     },
     {
         "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</span></li><li>OOP Concept</li></ul>",
+        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 1,
@@ -304,7 +304,7 @@ var event_data = {
     // Java Programming I
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 18,
@@ -312,7 +312,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 19,
@@ -320,7 +320,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 20,
@@ -328,7 +328,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 21,
@@ -336,7 +336,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 22,
@@ -344,7 +344,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 25,
@@ -352,7 +352,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 26,
@@ -360,7 +360,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 27,
@@ -368,7 +368,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 28,
@@ -376,7 +376,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming I",
-        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</span></li><li>Spring Boot</span></li><li>Object Relational Mapping (ORM)</li></ul>",
+        "description": "<ul><li>Java Database Connectivity (JDBC)</li><li>Model, View, and Controller</li><li>Spring Boot</li><li>Object Relational Mapping (ORM)</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 29,
@@ -385,7 +385,7 @@ var event_data = {
     // Java Programming II
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 17,
@@ -393,7 +393,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 18,
@@ -401,7 +401,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 19,
@@ -409,7 +409,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 22,
@@ -417,7 +417,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 23,
@@ -425,7 +425,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 24,
@@ -433,7 +433,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 25,
@@ -441,7 +441,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 26,
@@ -449,7 +449,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 29,
@@ -457,7 +457,7 @@ var event_data = {
     },
     {
         "occasion": "Java Programming II",
-        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</span></li><li>Web Design</span></li><li>JavaScript</span></li><li>Consume API</li></ul>",
+        "description": "<ul><li>System Architetcure</li><li>Representation State Transfer (REST)</li><li>Web Design</li><li>JavaScript</li><li>Consume API</li></ul>",
         "year": 2024,
         "month": 4,
         "day": 30,
@@ -506,7 +506,7 @@ var event_data = {
     // Certified Application Security Engineer (CASE)
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</span></li><li>Secure Application Design and Architecture</span></li><li>Secure Coding Practices for Input Validation</li></ul>",
+        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</li><li>Secure Application Design and Architecture</li><li>Secure Coding Practices for Input Validation</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 6,
@@ -514,7 +514,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</span></li><li>Secure Application Design and Architecture</span></li><li>Secure Coding Practices for Input Validation</li></ul>",
+        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</li><li>Secure Application Design and Architecture</li><li>Secure Coding Practices for Input Validation</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 7,
@@ -522,7 +522,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</span></li><li>Secure Application Design and Architecture</span></li><li>Secure Coding Practices for Input Validation</li></ul>",
+        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</li><li>Secure Application Design and Architecture</li><li>Secure Coding Practices for Input Validation</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 8,
@@ -530,7 +530,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</span></li><li>Secure Application Design and Architecture</span></li><li>Secure Coding Practices for Input Validation</li></ul>",
+        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</li><li>Secure Application Design and Architecture</li><li>Secure Coding Practices for Input Validation</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 9,
@@ -538,7 +538,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</span></li><li>Secure Application Design and Architecture</span></li><li>Secure Coding Practices for Input Validation</li></ul>",
+        "description": "<ul><li>Understanding Application Security, Threats, and Attacks</li><li>Security Requirements Gathering</li><li>Secure Application Design and Architecture</li><li>Secure Coding Practices for Input Validation</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 10,
@@ -546,7 +546,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</span></li><li>Secure Coding Practices for Session Management</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</li><li>Secure Coding Practices for Session Management</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 13,
@@ -554,7 +554,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</span></li><li>Secure Coding Practices for Session Management</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</li><li>Secure Coding Practices for Session Management</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 14,
@@ -562,7 +562,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</span></li><li>Secure Coding Practices for Session Management</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</li><li>Secure Coding Practices for Session Management</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 15,
@@ -570,7 +570,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</span></li><li>Secure Coding Practices for Session Management</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</li><li>Secure Coding Practices for Session Management</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 16,
@@ -578,7 +578,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</span></li><li>Secure Coding Practices for Session Management</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Authentication & Authorization</li><li>Secure Coding Practices for Cryptography</li><li>Secure Coding Practices for Session Management</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 17,
@@ -586,7 +586,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</span></li><li>Secure Deployment and maintenance</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</li><li>Secure Deployment and maintenance</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 20,
@@ -594,7 +594,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</span></li><li>Secure Deployment and maintenance</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</li><li>Secure Deployment and maintenance</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 21,
@@ -602,7 +602,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</span></li><li>Secure Deployment and maintenance</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</li><li>Secure Deployment and maintenance</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 22,
@@ -610,7 +610,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</span></li><li>Secure Deployment and maintenance</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</li><li>Secure Deployment and maintenance</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 23,
@@ -618,7 +618,7 @@ var event_data = {
     },
     {
         "occasion": "Certified Application Security Engineer (CASE)",
-        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</span></li><li>Secure Deployment and maintenance</li></ul>",
+        "description": "<ul><li>Secure Coding Practices for Error Handling</li><li>Static and Dynamic Application Security Testing (SAST & DAST)</li><li>Secure Deployment and maintenance</li></ul>",
         "year": 2024,
         "month": 5,
         "day": 24,
@@ -627,7 +627,7 @@ var event_data = {
     // Final Project and Showcase
     {
         "occasion": "[Start] Final Project and Showcase",
-        "description": "<ul><li>Final Project and Showcase</li><li>Exam Preparation</span></li><li>Exam Certification</li></ul>",
+        "description": "<ul><li>Final Project and Showcase</li><li>Exam Preparation</li><li>Exam Certification</li></ul>",
         "year": 2024,
         "month": 6,
         "day": 3,
@@ -635,7 +635,7 @@ var event_data = {
     },
     {
         "occasion": "[End] Final Project and Showcase",
-        "description": "<ul><li>Final Project and Showcase</li><li>Exam Preparation</span></li><li>Exam Certification</li></ul>",
+        "description": "<ul><li>Final Project and Showcase</li><li>Exam Preparation</li><li>Exam Certification</li></ul>",
         "year": 2024,
         "month": 6,
         "day": 28,

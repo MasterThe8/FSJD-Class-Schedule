@@ -59,3 +59,12 @@
 #desc-kegiatan{
     text-align: justify;
 }
+
+.info-kelas{
+    width: 50%;
+    height: 80px;
+    /* background-color: #000000; */
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
