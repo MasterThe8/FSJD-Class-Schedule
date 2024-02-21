@@ -2,7 +2,7 @@
 
 ## MSIB Batch 6
 
-[View Website](https://masterthe8.github.io/FSJP-Class-Schedule/)
+[View Website](https://masterthe8.github.io/FSJD-Class-Schedule/)
 
 ---
 Kang Post : MasterThe8
