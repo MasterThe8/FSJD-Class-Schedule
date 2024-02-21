@@ -47,6 +47,7 @@
     background-color: #eceff1;
     color: #000000;
     padding: 5px;
+    text-align: center;
 }
 
 .table_component td {
@@ -54,6 +55,7 @@
     background-color: #ffffff;
     color: #000000;
     padding: 5px;
+    text-align: center;
 }
 
 #desc-kegiatan{
