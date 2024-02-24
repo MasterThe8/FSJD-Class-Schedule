@@ -246,16 +246,16 @@ var event_data = {
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "SQL Fundamentals",
+        "description": "<ul><li>Mempelajari DML (Data Manipulation Language).</li><li>Mempelajari cara kerja query SELECT, INSERT, UPDATE, DELETE, dan klausa WHERE.</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 22,
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "SQL Fundamentals",
+        "description": "<ul><li>Mempelajari DQL (Data Query Language).</li><li>Memahami Query ORDER BY, GROUP BY, HAVING.</li><li>Memahami Aggregate Function pada SQL.</li><li>Mempelajari jenis-jenis JOIN.</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 23,
