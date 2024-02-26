@@ -262,8 +262,8 @@ var event_data = {
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "Java Fundamentals",
+        "description": "<ul><li>Instalasi Java.</li><li>Pengenalan Java Programming.</li><li>Membuat project Java.</li><li>Mempelajari Java Syntax & Comment.</li><li>Mempelajari Data Type (Primitive, Variable, Konstanta, dan Array).</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 26,
