@@ -270,32 +270,32 @@ var event_data = {
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "OOP Concept",
+        "description": "<ul><li>Belajar jenis-jenis operator yang ada di Java.</li><li>Belajar tentang Decision (if else statement, switch case).</li><li>Belajar tentang perulangan (While, do While, For i, For each).</li><li>Belajar tentang Method void dan non void serta penggunaan static pada method.</li><li>Pengenalan tentang OOP pada Java.</li><li>Belajar cara membuat Object dan Class pada Java.</li><li>Belajar tentang Inheritance (Pewarisan).</li><li>Belajar tentang Polimorfisme pada OOP.</li><li>Belajar tentang Enkasulapsi (Getter & Setter).</li><li>Belajar tentang Access Modifier.</li><li>Memahami tentang Perbedaan overloading dan overriding.</li><li>Belajar tentang Abstraction , dan interface pada OOP.</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 27,
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "Git",
+        "description": "<ul><li>Belajar tentang GIT Versioning.</li><li>Praktek melakukan konfigurasi awal pada akun GIT dan GITHub.</li><li>Memahami tentang Git state Operation dan File status life cycle pada Git.</li><li>Praktek melakukan fast forward dan Three way merging serta solved conflict.</li><li>Memahami cara pull request di github.</li><li>Memahami Istilah dasar GIT yang sering digunakan.</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 28,
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "Git",
+        "description": "<ul><li>Membahas tuntas tentang tugas Git Versioning yang diberikan pada tanggal 28-02-2024.</li><li>Review ulang cara melakukan Git add, Git Pull , Git merge, Pull request , Fast Forward, Three way merging.</li></ul>",
         "year": 2024,
         "month": 2,
         "day": 29,
         "cancelled": false
     },
     {
-        "occasion": "Introduction to Programming",
-        "description": "<ul><li>SQL Fundamentals</li><li>Java Fundamentals</li><li>OOP Concept</li></ul>",
+        "occasion": "JDBC & MVC",
+        "description": "<ul><li>Belajar tentang cara menggunakan library JDBC.</li><li>Belajar tentang konsep MVC (Model , View, dan Controller).</li><li>Belajar tentang cara menggunakan Class Collection di java.</li><li>Belajar tentang cara menggunakan Class Scanner jada Java.util.</li></ul>",
         "year": 2024,
         "month": 3,
         "day": 1,
